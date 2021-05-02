@@ -2,8 +2,8 @@
 
 ##Download cv:
 
-### [download in docx](https://github.com/gluuck/cv/raw/master/vladimir_ostapenko_cv.docx)
-### [download in pdf](https://github.com/gluuck/cv/raw/master/vladimir_ostapenko_cv.pdf)
+### [download in docx](https://github.com/gluuck/cv/raw/main/vladimir_ostapenko_cv.docx)
+### [download in pdf](https://github.com/gluuck/cv/raw/main/vladimir_ostapenko_cv.pdf)
 
 ----------------------- -------------------------
 **ЛИЧНЫЕ ДАННЫЕ**
