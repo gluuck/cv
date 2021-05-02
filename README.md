@@ -1,6 +1,6 @@
-#OSTAPENKO VLADIMIR CV
+# OSTAPENKO VLADIMIR CV
 
-##Download cv:
+## Download cv:
 
 ### [download in docx](https://github.com/gluuck/cv/raw/main/vladimir_ostapenko_cv.docx)
 ### [download in pdf](https://github.com/gluuck/cv/raw/main/vladimir_ostapenko_cv.pdf)
