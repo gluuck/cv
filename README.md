@@ -20,18 +20,19 @@
 
 **Objective**
 
-**Schedule:** full day, remote work
+**Schedule:** full day, remote work <br/>
 **Employment:** full, part-time, project work
+
 -----------------------  -------------------------
 
-**Skills**
+**Skills** <br/>
 
- **Ruby**
- **Ruby on Rails**
- **Postgres**
- **Git**
- **Rspec**
- **Factory bot**
+ **Ruby** <br/>
+ **Ruby on Rails**<br/>
+ **Postgres**<br/>
+ **Git**<br/>
+ **Rspec**<br/>
+ **Factory bot**<br/>
 
 
 **LANGUAGES**
@@ -42,7 +43,7 @@ Russian -- Native Speaker
 
 **Education**
 
-(https://Rubyschool.us) – Ruby and Ruby on Rails intensive course (10.2019 – 03.2020)
+(https://Rubyschool.us) – Ruby and Ruby on Rails intensive course (10.2019 – 03.2020)<br/>
 (https://www.railstutorial.org/) The Ruby on Rails Tuorial by Hartl M. (04.2020 - 09.2020)
 
 **Work experience**
