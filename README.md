@@ -27,13 +27,13 @@
 
 **Skills** <br/>
 
- **Ruby** <br/>
- **Ruby on Rails**<br/>
- **Postgres**<br/>
- **Git**<br/>
- **Rspec**<br/>
- **Factory bot**<br/>
+ *Ruby* <br/>
+ *Ruby on Rails*<br/>
+ *Postgres*<br/>
+ *Git*<br/>
+ *Rspec*<br/>
 
+-----------------------  -------------------------
 
 **LANGUAGES**
 
@@ -41,12 +41,16 @@ English -- Intermediate
 
 Russian -- Native Speaker
 
+-----------------------  -------------------------
+
 **Education**
 
 (https://Rubyschool.us) – Ruby and Ruby on Rails intensive course (10.2019 – 03.2020)<br/>
 (https://www.railstutorial.org/) The Ruby on Rails Tuorial by Hartl M. (04.2020 - 09.2020)
 
-**Work experience**
+-----------------------  -------------------------
+
+**Work experience**<br/>
 Ruby Developer
 Freelance
 Nov. 2020 – present time
