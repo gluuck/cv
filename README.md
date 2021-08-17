@@ -4,6 +4,7 @@
 ## Download cv:
 
 ### [download in docx](https://github.com/gluuck/cv/raw/main/vladimir_ostapenko_cv.docx)
+https://raw.githubusercontent.com/gluuck/cv/main/README.md
 ### [download in pdf](https://github.com/gluuck/cv/raw/main/vladimir_ostapenko_cv.pdf)
 
 ----------------------- -------------------------
