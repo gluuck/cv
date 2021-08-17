@@ -10,9 +10,7 @@
 
 **Name:** Ostapenko Vladimir
 
-**Location:** Россия , Челябинск
-
-**Mobile:** +7 912 792 35 15
+**Location:** Russia , Chelyabinsk
 
 **E-mail:** ostapenkov74@gmail.com
 
@@ -20,32 +18,34 @@
 <br/>
 ----------------------- -------------------------
 
-**ЦЕЛЬ**
+**Objective**
 
-**Желаемая должность:** Ruby on rails developer
+**Schedule:** full day, remote work
+**Employment:** full, part-time, project work
 -----------------------  -------------------------
 
-**КВАЛИФИКАЦИЯ**
+**Skills**
 
-
-
-Мой текущий стек технологий: Ruby, Rails, Postgres,git, Rspec, Factory bot.
-
-В моем предыдущем опыте я  занимался установкой программного обеспечения,
-топологией сетей и маршрутизацией.
-
+ **Ruby**
+ **Ruby on Rails**
+ **Postgres**
+ **Git**
+ **Rspec**
+ **Factory bot**
 
 
 **LANGUAGES**
 
-English -- Beginner
+English -- Intermediate
 
 Russian -- Native Speaker
 
-**ОБРАЗОВАНИЕ**
+**Education**
 
-2002/ средне-специальное образование
+(https://Rubyschool.us) – Ruby and Ruby on Rails intensive course (10.2019 – 03.2020)
+(https://www.railstutorial.org/) The Ruby on Rails Tuorial by Hartl M. (04.2020 - 09.2020)
 
-**ПРОФЕССИОНАЛЬНЫЙ ОПЫТ**
-
-Помощник системного администратора с 2016 по настоящее время.
+**Work experience**
+Ruby Developer
+Freelance
+Nov. 2020 – present time
