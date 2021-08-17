@@ -1,5 +1,11 @@
 # OSTAPENKO VLADIMIR CV
 
+
+## Download cv:
+
+### [download in docx](https://github.com/gluuck/cv/raw/main/vladimir_ostapenko_cv.docx)
+### [download in pdf](https://github.com/gluuck/cv/raw/main/vladimir_ostapenko_cv.pdf)
+
 ----------------------- -------------------------
 **PERSONAL DATA**
 
@@ -24,7 +30,7 @@
 
  *Ruby* <br/>
  *Ruby on Rails*<br/>
- *Postgres*<br/>
+ *Postgresql*<br/>
  *Git*<br/>
  *Rspec*<br/>
 
