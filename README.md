@@ -42,6 +42,7 @@ Russian -- Native Speaker
 
 (https://Rubyschool.us) – Ruby and Ruby on Rails intensive course (10.2019 – 03.2020)<br/>
 (https://www.railstutorial.org/) The Ruby on Rails Tuorial by Hartl M. (04.2020 - 09.2020)
+The Ruby Way - Hal Fulton.
 
 -----------------------  -------------------------
 
