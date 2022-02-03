@@ -32,7 +32,7 @@
 
 **LANGUAGES**
 
-English -- Intermediate
+English -- A(2)
 
 Russian -- Native Speaker
 
