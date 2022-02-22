@@ -26,7 +26,7 @@
  *Ruby on Rails*<br/>
  *Postgresql*<br/>
  *Git*<br/>
- *Devise<br/>
+ *Devise*<br/>
  *Rspec*<br/>
 
 -----------------------  -------------------------
