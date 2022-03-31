@@ -22,13 +22,14 @@
 
 **Skills** <br/>
 
- *Ruby* <br/>
+ *Ruby*<br/>
  *Ruby on Rails*<br/>
  *Postgresql*<br/>
  *Git*<br/>
  *Devise*<br/>
  *Rspec*<br/>
-
+ *Blueprinter*<br/>
+ *Bootstrap*<br/>
 -----------------------  -------------------------
 
 **LANGUAGES**
@@ -44,7 +45,7 @@ Russian -- Native Speaker
 (https://Rubyschool.us) – Ruby and Ruby on Rails intensive course (10.2019 – 03.2020)<br/>
 (https://www.railstutorial.org/) The Ruby on Rails Tuorial by Hartl M. (04.2020 - 09.2020)<br/>
 The Ruby Way - Hal Fulton.<br/>
-(https://thinknetica.com/) Full RoR course (09.2021 - now)<br/>
+(https://thinknetica.com/) Full RoR course (09.2021 - 04.2022)<br/>
 
 -----------------------  -------------------------
 
